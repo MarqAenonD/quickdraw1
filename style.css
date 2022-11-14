@@ -1,0 +1,12 @@
+body {
+    background-color: greenyellow;
+}
+
+#score {
+    margin-left: 10px;
+}
+
+#time {
+    float: right;
+    margin-right: 10px;
+}
